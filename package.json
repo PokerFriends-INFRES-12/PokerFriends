@@ -15,7 +15,7 @@
     "dotenv": "^8.2.0"
   },
   "scripts": {
-    "start": "node app.js"
+    "start": "node -r dotenv/config app.js"
   },
   "repository": {
     "type": "git",

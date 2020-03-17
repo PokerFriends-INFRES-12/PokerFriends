@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 3000;//process.env.npm_package_config_port;
+const port = process.env.PORT || process.env.DEFAULT_PORT;
 const path = require('path');
 const router = express.Router();
 

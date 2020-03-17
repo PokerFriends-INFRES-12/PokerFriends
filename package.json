@@ -1,0 +1,30 @@
+{
+  "name": "pokerfriends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "app": "^0.1.0",
+    "create": "0.0.2",
+    "express": "^4.17.1",
+    "native": "^0.3.3",
+    "process-env": "^1.1.0",
+    "react": "^16.13.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PokerFriends-INFRES-12/PokerFriends.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PokerFriends-INFRES-12/PokerFriends/issues"
+  },
+  "homepage": "https://github.com/PokerFriends-INFRES-12/PokerFriends#readme"
+}

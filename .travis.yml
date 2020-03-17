@@ -2,6 +2,6 @@ language: node_js
 deploy:
   provider: heroku
   api_key:
-    secure: "90d0972c-5f80-4481-a64a-2f5fcfab0a6d"
+    secure: 42be40d2-b259-45bc-b155-3bd4231b20da
 notifications:
   slack: pokerfriends-infres12:puvfRAB8FSqkym6tBMyc2IVY

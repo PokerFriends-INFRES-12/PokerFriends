@@ -3,3 +3,5 @@ deploy:
   provider: heroku
   api_key:
     secure: "90d0972c-5f80-4481-a64a-2f5fcfab0a6d"
+notifications:
+  slack: pokerfriends-infres12:puvfRAB8FSqkym6tBMyc2IVY
